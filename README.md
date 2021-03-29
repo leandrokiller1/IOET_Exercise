@@ -17,7 +17,7 @@ Saturday and Sunday
 
 ### Prerequisites
 
-The solution was made in Python 3.9.2 and and includes two files, the executable file that contains the script and a text file that contains the data to be entered. It requires nothing more than a computer to run the .exe file.
+The solution was made in Python 3.9.2 and and includes two files, the executable file that contains the script and a text file that contains the data to be entered. It requires nothing more than a computer to run the .exe file but both files must be in the same folder.
 
 In the .txt file you will find the data with which the calculations will be made to determine the amount of money that must be paid for the hours worked. This text file must have a specific format to enter the data, otherwise there will be errors in the execution.
 
